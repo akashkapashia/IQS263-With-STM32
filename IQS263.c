@@ -5,10 +5,9 @@
 	******************************************************************************
 	*
 	* COPYRIGHT(c) 2017 Akash kapashia
-  * Created by Akash kapashia
+        * Created by Akash kapashia
 	******************************************************************************
-	*/
-/* Define to prevent recursive inclusion -------------------------------------*/
+*/
 
 
 #include "IQS263.h"
